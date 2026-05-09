@@ -6,6 +6,7 @@
 # 1. No filter – keep all assets from the release
 therealaleph/MasterHttpRelayVPN-RUST
 ThisIsDara/mhr-cfw-go
+MatsuriDayo/NekoBoxForAndroid
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 NullLatency/FlowDriver|linux-amd64|darwin-amd64
