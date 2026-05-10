@@ -165,8 +165,15 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
+| `karing_1.2.18.2102_android_arm.apk` | 89.5 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_android_arm.apk) |
+| `karing_1.2.18.2102_android_arm64-v8a.apk` | 53.4 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_android_arm64-v8a.apk) |
+| `karing_1.2.18.2102_android_armeabi-v7a.apk` | 53.4 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_android_armeabi-v7a.apk) |
+| `karing_1.2.18.2102_linux_amd64.AppImage` | 69.8 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_linux_amd64.AppImage) |
+| `karing_1.2.18.2102_linux_amd64.deb` | 48.4 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_linux_amd64.deb) |
+| `karing_1.2.18.2102_linux_amd64.rpm` | 52.2 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_linux_amd64.rpm) |
 | `karing_1.2.18.2102_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_macos_universal.dmg) |
 | `karing_1.2.18.2102_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) |
+| `karing_1.2.18.2102_windows_x64.zip` | 62.0 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.zip) |
 
 ---
 
@@ -182,36 +189,6 @@ sha256sum FILE_NAME
 | `NekoBox-1.4.2-armeabi-v7a.apk` | 14.7 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/MatsuriDayo/NekoBoxForAndroid/NekoBox-1.4.2-armeabi-v7a.apk) |
 | `NekoBox-1.4.2-x86.apk` | 15.4 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/MatsuriDayo/NekoBoxForAndroid/NekoBox-1.4.2-x86.apk) |
 | `NekoBox-1.4.2-x86_64.apk` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/MatsuriDayo/NekoBoxForAndroid/NekoBox-1.4.2-x86_64.apk) |
-
----
-
-<div id="nulllatency--flowdriver"></div>
-
-### NullLatency--FlowDriver
-
-🔗 [source](https://github.com/NullLatency/FlowDriver) – [<code><small>v0.0.4</small></code>](https://github.com/NullLatency/FlowDriver/releases/tag/v0.0.4)
-
-| File | Size | Download |
-|------|------|----------|
-| `flow-driver-v0.0.4-darwin-amd64.zip` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-amd64.zip) |
-| `flow-driver-v0.0.4-linux-amd64.zip` | 9.4 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-linux-amd64.zip) |
-
----
-
-<div id="sagernet--sing-box"></div>
-
-### SagerNet--sing-box
-
-🔗 [source](https://github.com/SagerNet/sing-box) – [<code><small>v1.13.11</small></code>](https://github.com/SagerNet/sing-box/releases/tag/v1.13.11)
-
-| File | Size | Download |
-|------|------|----------|
-| `SFA-1.13.11-arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-arm64-v8a.apk) |
-| `SFA-1.13.11-legacy-android-5-arm64-v8a.apk` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-legacy-android-5-arm64-v8a.apk) |
-| `sing-box-1.13.11-darwin-amd64.tar.gz` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-amd64.tar.gz) |
-| `sing-box-1.13.11-darwin-arm64.tar.gz` | 17.7 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-arm64.tar.gz) |
-| `sing-box-1.13.11-windows-amd64-legacy-windows-7.zip` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64-legacy-windows-7.zip) |
-| `sing-box-1.13.11-windows-amd64.zip` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64.zip) |
 
 ---
 
@@ -233,19 +210,42 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="iampedii--whitedns"></div>
+
+### iampedii--WhiteDNS
+
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.0.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/SHA256SUMS.txt) |
+| `WhiteDNS-1.0.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-THIRD_PARTY_NOTICES.md) |
+| `WhiteDNS-1.0.0-arm64-v8a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-arm64-v8a.apk) |
+| `WhiteDNS-1.0.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-arm64-v8a.apk.idsig) |
+| `WhiteDNS-1.0.0-armeabi-v7a.apk` | 4.8 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-armeabi-v7a.apk) |
+| `WhiteDNS-1.0.0-armeabi-v7a.apk.idsig` | 46 KB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-armeabi-v7a.apk.idsig) |
+| `WhiteDNS-1.0.0-universal.apk` | 16.2 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-universal.apk) |
+| `WhiteDNS-1.0.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-universal.apk.idsig) |
+| `WhiteDNS-1.0.0-x86.apk` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86.apk) |
+| `WhiteDNS-1.0.0-x86.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86.apk.idsig) |
+| `WhiteDNS-1.0.0-x86_64.apk` | 5.2 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86_64.apk) |
+| `WhiteDNS-1.0.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86_64.apk.idsig) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.18</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.18)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.19</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.19)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.18.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.18.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.18.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.18.apk) |
-| `mhrv-rs-android-universal-v1.9.18.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.18.apk) |
-| `mhrv-rs-android-x86-v1.9.18.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.18.apk) |
-| `mhrv-rs-android-x86_64-v1.9.18.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.18.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.19.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.19.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.19.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.19.apk) |
+| `mhrv-rs-android-universal-v1.9.19.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.19.apk) |
+| `mhrv-rs-android-x86-v1.9.19.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.19.apk) |
+| `mhrv-rs-android-x86_64-v1.9.19.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.19.apk) |
 | `mhrv-rs-linux-amd64.tar.gz` | 9.8 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
 | `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/lind40/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
