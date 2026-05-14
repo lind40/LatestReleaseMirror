@@ -9,7 +9,7 @@ ThisIsDara/mhr-cfw-go
 MatsuriDayo/NekoBoxForAndroid
 ircfspace/teleMirror
 iampedii/WhiteDNS
-
+B3hnamR/PsiphonOverMITM
 # 4. Only specific file extensions (use .dmg and .exe – backslashes for literal dot)
 KaringX/karing
 
